@@ -1,0 +1,11 @@
+{
+  "name": "professional-stepup",
+  "version": "1.0.0",
+  "description": "chai aur backend professional set up",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shoaib",
+  "license": "ISC"
+}
