@@ -2,9 +2,14 @@
 This repo, contains backend things like data modeling of different projects I try in my practical implementation.
 
 Here is the list of a few models I practice :
+
 -Hospital
+
 -Social Media
--To Do 
+
+-To Do
+
 -E-commerce
+
 Also, the backend server was made.
 
