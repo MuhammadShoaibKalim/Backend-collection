@@ -1,8 +1,10 @@
-##Backend Data Modeling
-In this repo it contains backend things like data modeling of different projects i try in my practical implementation.
-Here is list of few models i practice :
+## Backend Data Modeling
+This repo, contains backend things like data modeling of different projects I try in my practical implementation.
+
+Here is the list of a few models I practice :
 -Hospital
 -Social Media
 -To Do 
--Ecommerce
+-E-commerce
+Also, the backend server was made.
 
