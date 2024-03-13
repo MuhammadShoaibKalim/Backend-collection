@@ -1,0 +1,2 @@
+PORT =8000
+MONGODB_URL = 'mongodb+srv://muhammadshoaibkalim926:muhammadshoaibkalim926@cluster-chai.r11owkv.mongodb.net'
