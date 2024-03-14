@@ -10,7 +10,7 @@ const dbConection = async () =>{
         
     } catch (error) {
          console.log("Error is in mongodb:" + error);
-         process.exit(1);
+         process.exit(1); 
     }
 }
 
