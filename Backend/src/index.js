@@ -21,16 +21,6 @@ database()
  });
 
 
-
-
-
-
-
-
-
-
-
-
 // import mongoose from 'mongoose';
 // import {DB_NAME} from './constants';   This is only for 1st approach.
 
