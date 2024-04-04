@@ -1,4 +1,5 @@
-import mongoose from "mongoose";
+import mongoose  from 'mongoose';
+
 const videoSchema =  new mongoose.Schema({
     id:{
         type:String,
@@ -47,6 +48,9 @@ const videoSchema =  new mongoose.Schema({
         required:true
     }
 
+},{timestamps:true});
+
+export const Video =mongoose.model('Video', videoSchema);
 
 
 

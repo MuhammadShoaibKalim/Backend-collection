@@ -14,7 +14,7 @@ class apiError extends Error {
 
         if(stack)
         {
-            this.stack =stack
+            this.stack =stack 
         }
         else
         {
